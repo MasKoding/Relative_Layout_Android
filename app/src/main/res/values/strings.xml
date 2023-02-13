@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">RelativeLayout_Nama_Kelas</string>
+    <string name="text_hello">Hello World!</string>
+
+    <string-array name="day_array">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+        <item>Sunday</item>
+    </string-array>
+
+ <string-array name="time_array">
+        <item>00:00 Am</item>
+        <item>01:00 Am</item>
+        <item>02:00 Am</item>
+        <item>03:00 Am</item>
+        <item>04:00 Am</item>
+        <item>05:00 Am</item>
+        <item>06:00 Am</item>
+        <item>07:00 Am</item>
+        <item>08:00 Am</item>
+        <item>09:00 Am</item>
+        <item>10:00 Am</item>
+        <item>11:00 Am</item>
+        <item>12:00 Am</item>
+    </string-array>
+
+
+</resources>
