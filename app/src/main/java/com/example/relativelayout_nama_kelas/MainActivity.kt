@@ -27,6 +27,7 @@ class MainActivity : AppCompatActivity() {
                 spinnerDay.adapter = it
             }
     }
+
     private fun setSpinnerTime() {
         val spinnerTime:Spinner = findViewById(R.id.spinner_time)
 
